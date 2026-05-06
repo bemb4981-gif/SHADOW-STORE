@@ -1,0 +1,13 @@
+{
+  "name": "bot-lojinha",
+  "version": "1.0.0",
+  "description": "Sistema Principal da Loja",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "express": "^4.18.2",
+    "fs": "0.0.1-security",
+    "sqlite3": "^5.1.7"
+  }
+}
+
